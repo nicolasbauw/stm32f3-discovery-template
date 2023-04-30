@@ -9,7 +9,7 @@ version = "0.1.0"
 cortex-m = "0.7.7"
 cortex-m-rt = "0.7.3"
 cortex-m-semihosting = "0.5.0"
-stm32f3-discovery = { git = "https://github.com/robamu/stm32f3-discovery", branch = "bump_hal_dependency" }
+stm32f3-discovery = { git = "https://github.com/nicolasbauw/stm32f3-discovery", branch = "master" }
 panic-halt = "0.2.0"
 
 # Uncomment for the panic example.
