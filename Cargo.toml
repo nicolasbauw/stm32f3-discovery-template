@@ -1,6 +1,6 @@
 [package]
 authors = ["Nicolas BAUW <nbauw@hotmail.com>"]
-edition = "2018"
+edition = "2021"
 readme = "README.md"
 name = "stm32f3-discovery-template"
 version = "0.1.0"
