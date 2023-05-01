@@ -2,7 +2,7 @@
 authors = ["Nicolas BAUW <nbauw@hotmail.com>"]
 edition = "2021"
 readme = "README.md"
-name = "stm32f3-discovery-template"
+name = "{{project-name}}"
 version = "0.1.0"
 
 [dependencies]
@@ -17,7 +17,7 @@ panic-semihosting = "0.6.0"
 
 # this lets you use `cargo fix`!
 [[bin]]
-name = "stm32f3-discovery-template"
+name = "{{project-name}}"
 test = false
 bench = false
 
